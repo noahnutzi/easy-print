@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyPrint</string>
+
+    <string name="benchy">Testdruck-Modell</string>
+    <string name="benchy_description">Zeit zum Drucken: 1h 45min\n\nHöhe: 48mm\nBreite: 31mm\nLänge: 60mm</string>
+
+    <string name="block_2x2">Klemmbaustein 2x2</string>
+    <string name="block_2x2_description">Zeit zum Drucken: 15min\n\nHöhe: 11.4mm\nBreite: 15.8mm\nLänge: 15.8mm</string>
+
+    <string name="block_2x4">Klemmbaustein 2x4</string>
+    <string name="block_2x4_description">Zeit zum Drucken: 30min\n\nHöhe: 11.4mm\nBreite: 15.8mm\nLänge: 31.8mm</string>
+
+    <string name="yoda">Yoda Figur</string>
+    <string name="yoda_description">Zeit zum Drucken: 10h\n\nHöhe: 90mm\nBreite: 68mm\nLänge: 77mm</string>
+
+    <string name="coming_soon">COMING SOON</string>
+
+    <string name="more_information">mehr infos</string>
+
+    <string name="ip_user_info">Geben Sie die IP Ihres Raspberry Pi\'s ein</string>
+    <string name="save_ip">IP speichern</string>
+    <string name="saved_ip">Gespeicherte IP: </string>
+
+    <string name="api_user_info">Geben Sie den API-KEY Ihres Raspberry Pi\s ein</string>
+    <string name="save_api">API-KEY speichern</string>
+    <string name="saved_api">Gespeicherter API-KEY: </string>
+
+    <string name="print">Drucken</string>
+    <string name="cancel">Abbrechen</string>
+
+    <string name="succeeded_message">Hochladen erfolgreich</string>
+    <string name="error_message">Verbindungsfehler: Prüfe die Einstellungen</string>
+    <string name="cancel_message">Druckauftrag abgebrochen</string>
+
+    <string name="home">Startseite</string>
+    <string name="settings">Einstellungen</string>
+    <string name="info">Informationen</string>
+
+    <string name="operatevideotitle">Serie 1: Leitfaden für Anfänger</string>
+    <string name="generalvideotitle">Serie 2: Wie man etwas Individuelles druckt</string>
+    <string name="createvideotitle">Serie 3: Informationen zur App-Entwicklung</string>
+    <string name="link">Link</string>
+
+    <string name="infovideos">Welche Videos solltest du schauen?\n
+                        \n
+                        Generelle Informationen über das 3D-Drucken:\nSerie 1, Video 1\n
+                        \n
+                        Anleitung, um mit der App etwas zu drucken:\nSerie 1, Video 2-3\n
+                        \n
+                        Wie man etwas Individuelles drucken kann:\nSerie 2, Video 1\n
+                        \n
+                        Informationen zur App-Entwicklung:\nSerie 3: Video 1-6
+    </string>
+
+</resources>

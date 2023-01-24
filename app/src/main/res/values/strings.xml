@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">EasyPrint</string>
+
+    <string name="benchy">Benchy</string>
+    <string name="benchy_description">Time to print: 1h 45min\n\nHeight: 48mm\nWidth: 31mm\nLength: 60mm</string>
+
+    <string name="block_2x2">Clamping module 2x2</string>
+    <string name="block_2x2_description">Time to print: 15min\n\nHeight: 11.4mm\nWidth: 15.8mm\nLength: 15.8mm</string>
+
+    <string name="block_2x4">Clamping module 2x4</string>
+    <string name="block_2x4_description">Time to print: 30min\n\nHeight: 11.4mm\nWidth: 15.8mm\nLength: 31.8mm</string>
+
+    <string name="yoda">Yoda figure</string>
+    <string name="yoda_description">Time to print: 10h\n\nHeight: 90mm\nWidth: 68mm\nLength: 77mm</string>
+
+    <string name="coming_soon">COMING SOON</string>
+
+    <string name="more_information">more info</string>
+
+    <string name="ip_user_info">Type in the IP of your Raspberry Pi</string>
+    <string name="save_ip">Save IP</string>
+    <string name="saved_ip">Saved IP: </string>
+
+    <string name="api_user_info">Type in the API-KEY of your Raspberry Pi</string>
+    <string name="save_api">Save API-KEY</string>
+    <string name="saved_api">Saved API-KEY: </string>
+
+    <string name="print">Print</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="succeeded_message">Upload succeeded</string>
+    <string name="error_message">Connection error: Check settings</string>
+    <string name="cancel_message">Print job canceled</string>
+
+    <string name="home">home</string>
+    <string name="settings">settings</string>
+    <string name="info">information</string>
+
+    <string name="operatevideotitle">Series 1: Beginners guide</string>
+    <string name="generalvideotitle">Series 2: How to print something individual</string>
+    <string name="createvideotitle">Series 3: Information about the app development</string>
+    <string name="link">Link</string>
+
+    <string name="infovideos">Which videos should you watch?\n
+                        \n
+                        General information about 3D-printing:\nSeries 1, Video 1\n
+                        \n
+                        Manual to print something with the app:\nSeries 1, Video 2-3\n
+                        \n
+                        How you can print something individual:\nSeries 2, Video 1\n
+                        \n
+                        Information about the app development:\nSeries 3: Video 1-6
+    </string>
+
+</resources>
